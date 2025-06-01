@@ -1,2 +1,5 @@
 ultralytics
+opencv-python
 supervision
+numpy
+pickle-mixin
